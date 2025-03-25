@@ -10,6 +10,9 @@
 2. Install `jq` if it's not installed already.
 3. Clone the repo and copy `nr.fish` to `.config/fish/completions`
  
+## Usage
+
+![screen](./assets/usage.gif)
 
 
 
